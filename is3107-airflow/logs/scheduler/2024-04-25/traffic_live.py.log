@@ -1,0 +1,536 @@
+[2024-04-25T05:58:02.331+0000] {processor.py:161} INFO - Started process (PID=70) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T05:58:02.357+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T05:58:02.466+0000] {logging_mixin.py:188} INFO - [2024-04-25T05:58:02.449+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T05:58:31.346+0000] {logging_mixin.py:188} INFO - [2024-04-25T05:58:31.317+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T05:58:31.361+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T05:58:31.749+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 29.467 seconds
+[2024-04-25T05:59:27.347+0000] {processor.py:161} INFO - Started process (PID=136) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T05:59:27.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T05:59:27.373+0000] {logging_mixin.py:188} INFO - [2024-04-25T05:59:27.371+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T05:59:29.291+0000] {logging_mixin.py:188} INFO - [2024-04-25T05:59:29.283+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T05:59:29.294+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T05:59:29.397+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 2.063 seconds
+[2024-04-25T06:00:12.981+0000] {processor.py:161} INFO - Started process (PID=187) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:00:12.986+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:00:13.025+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:00:13.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:00:21.572+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:00:21.504+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:00:21.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:00:21.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 8.906 seconds
+[2024-04-25T06:00:52.447+0000] {processor.py:161} INFO - Started process (PID=246) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:00:52.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:00:52.461+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:00:52.460+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:01:01.600+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:01:01.566+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:01:01.668+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:01:01.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 9.485 seconds
+[2024-04-25T06:01:32.493+0000] {processor.py:161} INFO - Started process (PID=305) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:01:32.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:01:32.515+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:01:32.514+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:01:46.292+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:01:46.238+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:01:46.296+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:01:46.446+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 13.985 seconds
+[2024-04-25T06:02:17.384+0000] {processor.py:161} INFO - Started process (PID=371) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:02:17.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:02:17.400+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:02:17.398+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:02:19.522+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:02:19.515+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:02:19.528+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:02:19.608+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 2.236 seconds
+[2024-04-25T06:02:50.505+0000] {processor.py:161} INFO - Started process (PID=430) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:02:50.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:02:50.597+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:02:50.595+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:02:54.869+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:02:54.858+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:02:54.876+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:02:54.961+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 4.489 seconds
+[2024-04-25T06:03:25.350+0000] {processor.py:161} INFO - Started process (PID=489) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:03:25.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:03:25.356+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:03:25.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:03:26.020+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:03:26.014+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:03:26.023+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:03:26.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.721 seconds
+[2024-04-25T06:03:56.589+0000] {processor.py:161} INFO - Started process (PID=548) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:03:56.591+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:03:56.594+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:03:56.593+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:03:57.087+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:03:57.083+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:03:57.088+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:03:57.128+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.544 seconds
+[2024-04-25T06:04:27.554+0000] {processor.py:161} INFO - Started process (PID=607) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:04:27.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:04:27.560+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:04:27.559+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:04:27.862+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:04:27.860+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:04:27.864+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:04:27.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.342 seconds
+[2024-04-25T06:04:58.381+0000] {processor.py:161} INFO - Started process (PID=666) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:04:58.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:04:58.388+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:04:58.387+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:04:58.677+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:04:58.674+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:04:58.678+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:04:58.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.329 seconds
+[2024-04-25T06:05:29.017+0000] {processor.py:161} INFO - Started process (PID=725) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:05:29.023+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:05:29.033+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:05:29.031+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:05:30.790+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:05:30.702+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:05:30.809+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:05:31.761+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 2.759 seconds
+[2024-04-25T06:06:02.168+0000] {processor.py:161} INFO - Started process (PID=784) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:06:02.171+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:06:02.174+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:06:02.174+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:06:02.647+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:06:02.643+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:06:02.649+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:06:02.697+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.535 seconds
+[2024-04-25T06:06:32.934+0000] {processor.py:161} INFO - Started process (PID=843) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:06:32.936+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:06:32.939+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:06:32.939+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:06:33.387+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:06:33.384+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:06:33.389+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:06:33.425+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.495 seconds
+[2024-04-25T06:07:03.652+0000] {processor.py:161} INFO - Started process (PID=902) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:07:03.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:07:03.657+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:07:03.657+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:07:04.369+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:07:04.363+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:07:04.372+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:07:04.422+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.775 seconds
+[2024-04-25T06:07:34.881+0000] {processor.py:161} INFO - Started process (PID=961) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:07:34.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:07:34.888+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:07:34.887+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:07:35.435+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:07:35.431+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:07:35.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:07:35.482+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.608 seconds
+[2024-04-25T06:08:05.718+0000] {processor.py:161} INFO - Started process (PID=1020) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:08:05.726+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:08:05.740+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:08:05.738+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:08:06.843+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:08:06.840+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:08:06.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:08:06.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 1.189 seconds
+[2024-04-25T06:08:37.142+0000] {processor.py:161} INFO - Started process (PID=1079) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:08:37.144+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:08:37.149+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:08:37.148+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:08:37.567+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:08:37.564+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:08:37.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:08:37.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 0.469 seconds
+[2024-04-25T06:09:07.758+0000] {processor.py:161} INFO - Started process (PID=1137) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:09:07.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:09:07.762+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:09:07.762+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:09:08.835+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:09:08.832+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:09:08.838+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:09:08.879+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 1.125 seconds
+[2024-04-25T06:09:39.874+0000] {processor.py:161} INFO - Started process (PID=1197) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:09:39.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:09:39.895+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:09:39.894+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:09:41.145+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:09:41.141+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:09:41.148+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:09:41.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 1.340 seconds
+[2024-04-25T06:10:11.993+0000] {processor.py:161} INFO - Started process (PID=1265) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:10:11.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:10:12.008+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:10:12.006+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:10:13.167+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:10:13.163+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:10:13.170+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:10:13.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 1.239 seconds
+[2024-04-25T06:10:43.378+0000] {processor.py:161} INFO - Started process (PID=1326) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:10:43.387+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:10:43.398+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:10:43.397+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:10:45.206+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:10:45.193+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+ModuleNotFoundError: No module named 'sklearn'
+[2024-04-25T06:10:45.210+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:10:45.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 1.911 seconds
+[2024-04-25T06:51:28.501+0000] {processor.py:161} INFO - Started process (PID=71) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:51:28.530+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:51:28.601+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:51:28.558+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:51:58.640+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:52:05.257+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:52:05.248+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:etl_traffic_data_taskflow_live
+[2024-04-25T06:52:05.499+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:52:05.486+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:etl_traffic_data_taskflow_live
+[2024-04-25T06:52:05.611+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:52:05.609+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:etl_traffic_data_taskflow_live
+[2024-04-25T06:52:05.632+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:52:05.630+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:52:05.799+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:52:05.798+0000] {dag.py:3058} INFO - Creating ORM DAG for etl_traffic_data_taskflow_live
+[2024-04-25T06:52:05.984+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:52:05.984+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:52:06.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 37.993 seconds
+[2024-04-25T06:53:21.346+0000] {processor.py:161} INFO - Started process (PID=153) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:53:21.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:53:21.359+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:53:21.358+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:53:26.895+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:53:26.986+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:53:26.985+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:53:27.111+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:53:27.110+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:53:27.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 5.904 seconds
+[2024-04-25T06:53:58.287+0000] {processor.py:161} INFO - Started process (PID=222) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:53:58.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:53:58.326+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:53:58.322+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:54:04.550+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:54:04.639+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:54:04.638+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:54:04.742+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:54:04.741+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:54:04.846+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 6.599 seconds
+[2024-04-25T06:54:35.496+0000] {processor.py:161} INFO - Started process (PID=293) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:54:35.501+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:54:35.512+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:54:35.510+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:54:41.319+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:54:41.439+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:54:41.437+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:54:41.565+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:54:41.565+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:54:41.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 6.195 seconds
+[2024-04-25T06:55:13.964+0000] {processor.py:161} INFO - Started process (PID=370) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:55:13.974+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:55:13.985+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:55:13.983+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:55:20.358+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:55:20.446+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:55:20.439+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:55:20.567+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:55:20.567+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:55:20.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 6.705 seconds
+[2024-04-25T06:55:51.806+0000] {processor.py:161} INFO - Started process (PID=440) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:55:51.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:55:51.826+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:55:51.825+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:55:55.539+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:55:55.627+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:55:55.625+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:55:55.719+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:55:55.718+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:55:55.833+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 4.067 seconds
+[2024-04-25T06:56:26.761+0000] {processor.py:161} INFO - Started process (PID=510) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:56:26.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:56:26.777+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:56:26.774+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:56:33.055+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:56:33.167+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:56:33.165+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:56:33.279+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:56:33.278+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:56:33.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 6.671 seconds
+[2024-04-25T06:57:05.292+0000] {processor.py:161} INFO - Started process (PID=580) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:57:05.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:57:05.312+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:57:05.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:57:08.822+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:57:09.045+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:57:09.043+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T06:57:12.943+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:57:12.942+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 06:30:00+00:00, run_after=2024-04-25 06:45:00+00:00
+[2024-04-25T06:57:13.148+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 7.871 seconds
+[2024-04-25T06:57:47.187+0000] {processor.py:161} INFO - Started process (PID=631) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:57:47.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T06:57:47.207+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:57:47.205+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:58:17.155+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:58:17.149+0000] {timeout.py:68} ERROR - Process timed out, PID: 631
+[2024-04-25T06:58:18.556+0000] {logging_mixin.py:188} INFO - [2024-04-25T06:58:17.660+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 6, in <module>
+    from sklearn.neighbors import NearestNeighbors
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/__init__.py", line 82, in <module>
+    from .base import clone
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/base.py", line 17, in <module>
+    from .utils import _IS_32BIT
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/__init__.py", line 23, in <module>
+    from .class_weight import compute_class_weight, compute_sample_weight
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/class_weight.py", line 7, in <module>
+    from .validation import _deprecate_positional_args
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/validation.py", line 26, in <module>
+    from .fixes import _object_dtype_isnan, parse_version
+  File "/home/airflow/.local/lib/python3.8/site-packages/sklearn/utils/fixes.py", line 20, in <module>
+    import scipy.stats
+  File "/home/airflow/.local/lib/python3.8/site-packages/scipy/stats/__init__.py", line 485, in <module>
+    from ._stats_py import *
+  File "/home/airflow/.local/lib/python3.8/site-packages/scipy/stats/_stats_py.py", line 53, in <module>
+    from ._hypotests import _all_partitions
+  File "/home/airflow/.local/lib/python3.8/site-packages/scipy/stats/_hypotests.py", line 13, in <module>
+    from scipy.fft import ifft
+  File "/home/airflow/.local/lib/python3.8/site-packages/scipy/fft/__init__.py", line 85, in <module>
+    from ._basic import (
+  File "/home/airflow/.local/lib/python3.8/site-packages/scipy/fft/_basic.py", line 1, in <module>
+    from scipy._lib.uarray import generate_multimethod, Dispatchable
+  File "/home/airflow/.local/lib/python3.8/site-packages/scipy/_lib/uarray.py", line 28, in <module>
+    from ._uarray import *
+  File "/home/airflow/.local/lib/python3.8/site-packages/scipy/_lib/_uarray/__init__.py", line 115, in <module>
+    from ._backend import *
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 971, in get_code
+  File "<frozen importlib._bootstrap_external>", line 640, in _compile_bytecode
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/traffic_live.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.8.1/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.8.1/best-practices.html#reducing-dag-complexity, PID: 631
+[2024-04-25T06:58:18.662+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T06:58:20.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 34.000 seconds
+[2024-04-25T07:02:38.255+0000] {processor.py:161} INFO - Started process (PID=717) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:02:39.946+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:02:41.736+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:02:41.415+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:03:13.372+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:03:13.345+0000] {timeout.py:68} ERROR - Process timed out, PID: 717
+[2024-04-25T07:03:13.402+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:03:13.378+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/traffic_live.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/traffic_live.py", line 2, in <module>
+    import pandas as pd
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/__init__.py", line 144, in <module>
+    from pandas.io.api import (
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/io/api.py", line 16, in <module>
+    from pandas.io.pickle import read_pickle, to_pickle
+  File "/home/airflow/.local/lib/python3.8/site-packages/pandas/io/pickle.py", line 7, in <module>
+    from pandas.compat import pickle_compat as pc
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 971, in get_code
+  File "<frozen importlib._bootstrap_external>", line 640, in _compile_bytecode
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/traffic_live.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.8.1/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.8.1/best-practices.html#reducing-dag-complexity, PID: 717
+[2024-04-25T07:03:13.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:03:14.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 39.192 seconds
+[2024-04-25T07:50:51.835+0000] {processor.py:161} INFO - Started process (PID=35) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:50:51.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:50:51.886+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:50:51.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:50:59.602+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:51:00.393+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:51:00.390+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:51:00.507+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:51:00.506+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:51:00.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 8.790 seconds
+[2024-04-25T07:51:31.222+0000] {processor.py:161} INFO - Started process (PID=112) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:51:31.236+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:51:31.258+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:51:31.255+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:51:35.543+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:51:35.665+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:51:35.663+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:51:35.828+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:51:35.827+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:51:35.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 4.751 seconds
+[2024-04-25T07:52:06.512+0000] {processor.py:161} INFO - Started process (PID=182) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:52:06.521+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:52:06.531+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:52:06.530+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:52:15.173+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:52:15.465+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:52:15.463+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:52:16.027+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:52:16.012+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:52:16.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 9.668 seconds
+[2024-04-25T07:52:47.297+0000] {processor.py:161} INFO - Started process (PID=252) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:52:47.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:52:47.313+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:52:47.311+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:52:50.223+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:52:50.430+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:52:50.427+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:52:50.558+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:52:50.556+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:52:50.670+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 3.384 seconds
+[2024-04-25T07:53:22.633+0000] {processor.py:161} INFO - Started process (PID=322) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:53:22.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:53:22.709+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:53:22.707+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:53:28.262+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:53:28.344+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:53:28.343+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:53:28.417+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:53:28.417+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:53:28.482+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 5.881 seconds
+[2024-04-25T07:55:29.606+0000] {processor.py:161} INFO - Started process (PID=42) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:55:29.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:55:29.632+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:55:29.631+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:55:33.756+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:55:35.256+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:55:35.255+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:55:35.338+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:55:35.337+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:55:35.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 5.847 seconds
+[2024-04-25T07:56:06.433+0000] {processor.py:161} INFO - Started process (PID=63) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:56:06.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:56:06.470+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:56:06.466+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:56:25.441+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:56:25.656+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:56:25.650+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:56:25.819+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:56:25.817+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:56:25.900+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 19.508 seconds
+[2024-04-25T07:58:05.337+0000] {processor.py:161} INFO - Started process (PID=41) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:58:05.350+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:58:05.364+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:58:05.362+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:58:12.709+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:58:13.717+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:58:13.713+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:58:13.979+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:58:13.977+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:58:14.097+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 8.779 seconds
+[2024-04-25T07:58:45.382+0000] {processor.py:161} INFO - Started process (PID=63) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:58:45.459+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:58:45.539+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:58:45.525+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:58:57.860+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:58:58.495+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:58:58.471+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:58:59.089+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:58:59.087+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:58:59.588+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 14.302 seconds
+[2024-04-25T07:59:30.228+0000] {processor.py:161} INFO - Started process (PID=92) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:59:30.236+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T07:59:30.240+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:59:30.240+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:59:31.894+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T07:59:32.041+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:59:32.040+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T07:59:32.232+0000] {logging_mixin.py:188} INFO - [2024-04-25T07:59:32.231+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:30:00+00:00, run_after=2024-04-25 07:45:00+00:00
+[2024-04-25T07:59:32.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 2.091 seconds
+[2024-04-25T08:00:02.699+0000] {processor.py:161} INFO - Started process (PID=114) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T08:00:02.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T08:00:02.705+0000] {logging_mixin.py:188} INFO - [2024-04-25T08:00:02.705+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T08:00:03.883+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T08:00:03.928+0000] {logging_mixin.py:188} INFO - [2024-04-25T08:00:03.928+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T08:00:03.956+0000] {logging_mixin.py:188} INFO - [2024-04-25T08:00:03.955+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:45:00+00:00, run_after=2024-04-25 08:00:00+00:00
+[2024-04-25T08:00:03.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 1.295 seconds
+[2024-04-25T08:00:34.381+0000] {processor.py:161} INFO - Started process (PID=136) to work on /opt/airflow/dags/traffic_live.py
+[2024-04-25T08:00:34.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/traffic_live.py for tasks to queue
+[2024-04-25T08:00:34.397+0000] {logging_mixin.py:188} INFO - [2024-04-25T08:00:34.396+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/traffic_live.py
+[2024-04-25T08:00:35.894+0000] {processor.py:840} INFO - DAG(s) 'etl_traffic_data_taskflow_live' retrieved from /opt/airflow/dags/traffic_live.py
+[2024-04-25T08:00:36.069+0000] {logging_mixin.py:188} INFO - [2024-04-25T08:00:36.068+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-25T08:00:36.154+0000] {logging_mixin.py:188} INFO - [2024-04-25T08:00:36.153+0000] {dag.py:3823} INFO - Setting next_dagrun for etl_traffic_data_taskflow_live to 2024-04-25 07:45:00+00:00, run_after=2024-04-25 08:00:00+00:00
+[2024-04-25T08:00:36.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/traffic_live.py took 1.980 seconds

@@ -1,0 +1,47 @@
+Type,Latitude,Longitude,Message,LinkID,Time
+Vehicle breakdown,1.3987804846076621,103.89990803573966,(15/4)16:57 Vehicle breakdown on TPE (towards PIE) after Punggol Rd Exit.,104009365,2024-04-15 17:26:49.864079
+Vehicle breakdown,1.4353098591094833,103.76853588899621,(15/4)16:57 Vehicle breakdown on BKE (towards Woodlands) before Woodlands Rd Exit. Avoid lane 4.,103065111,2024-04-15 17:26:49.864079
+Roadwork,1.3350366054480842,103.93363331448778,(15/4)16:56 Roadworks on Bedok North Avenue 3 (towards PIE) after PIE. Avoid left lane.,103058654,2024-04-15 17:26:49.864079
+Vehicle breakdown,1.3485169516151818,103.89844946480385,(15/4)16:55 Vehicle breakdown on KPE (towards TPE) before Airport Rd Entrance.,108002974,2024-04-15 17:26:49.864079
+Vehicle breakdown,1.3531280730186832,103.78822961253806,(15/4)16:54 Vehicle breakdown on BKE (towards Woodlands) after PIE Entrance.,103104495,2024-04-15 17:26:49.864079
+Heavy Traffic,1.4187980534078535,103.7709880595992,(15/4)16:51 Heavy Traffic on BKE (towards Woodlands) at SLE Exit.,103055629,2024-04-15 17:26:49.864079
+Heavy Traffic,1.421300441846634,103.79690322540213,(15/4)16:37 Heavy Traffic on SLE (towards BKE) at Woodlands Ave 12 Exit.,106003608,2024-04-15 17:26:49.864079
+Vehicle breakdown,1.345932413602478,103.78846904093858,(15/4)16:11 Vehicle breakdown on PIE (towards Tuas) after BKE.,103066815,2024-04-15 17:26:49.864079
+Roadwork,1.3322688074043156,103.93416191230429,(15/4)15:43 Roadworks on Bedok North Avenue 3 (towards Bedok North Road) after PIE.,103111471,2024-04-15 17:26:49.864079
+Roadwork,1.322749667304323,103.68773578816787,(15/4)14:50 Roadworks on AYE (towards MCE) after Benoi Rd Entrance. Avoid lane 3.,103108244,2024-04-15 17:26:49.864079
+Roadwork,1.3270002795964373,103.94577486825992,(15/4)14:16 Roadworks on New Upper Changi Road (toward Changi) after Bedok North Road. Avoid right lane.,103073314,2024-04-15 17:26:49.864079
+Roadwork,1.3277682531895882,103.94797705906286,(15/4)14:16 Roadworks on New Upper Changi Road (toward City) after Bedok Road. Avoid left lane.,103081034,2024-04-15 17:26:49.864079
+Roadwork,1.2817480291349164,103.86065921217345,(15/4)11:27 Roadworks on Sheares Avenue near Sheares Avenue/Sheares Link Junction.,109001098,2024-04-15 17:26:49.864079
+Roadwork,1.3121911403326685,103.77263900529184,(15/4)11:11 Roadworks on Commonwealth Avenue West (towards Tuas) after Dover Avenue. Avoid right lane.,103087907,2024-04-15 17:26:49.864079
+Roadwork,1.3411558831294885,103.64442017914746,(15/4)11:04 Roadworks on AYE (towards MCE) after Tuas West Rd. Avoid lane 3.,103089656,2024-04-15 17:26:49.864079
+Roadwork,1.3336673949165505,103.86971552922235,(15/4)11:01 Roadworks on Upper Serangoon Road (towards Sengkang) after Potong Pasir Avenue 1.,108003379,2024-04-15 17:26:49.864079
+Roadwork,1.339378511958718,103.87078408972243,(15/4)10:57 Roadworks on Upper Serangoon Road (towards City) after Upper Aljunied Road.,103078723,2024-04-15 17:26:49.864079
+Roadwork,1.326437606068178,103.8425545417154,(15/4)10:56 Roadworks on Balestier Road (towards Jalan Raja Udang) after Jalan Datoh. Avoid right lane.,103088510,2024-04-15 17:26:49.864079
+Roadwork,1.3017184995754258,103.85727470332748,(15/4)10:55 Roadworks on Ophir Road (towards North Bridge Road) after Victoria Street. Avoid right lane.,103107192,2024-04-15 17:26:49.864079
+Roadwork,1.3170107585243536,103.85953201745077,(15/4)10:52 Roadworks on Serangoon Road (towards Sengkang) after Balestier Road.,103072776,2024-04-15 17:26:49.864079
+Roadwork,1.3217481352436982,103.85284925207392,(15/4)10:52 Roadworks on Balestier Road (towards Ava Road). Avoid right lane.,103086023,2024-04-15 17:26:49.864079
+Roadwork,1.3218907441945007,103.85288736081002,(15/4)10:52 Roadworks on Balestier Road (towards CTE) after Ava Road. Avoid right lane.,103086023,2024-04-15 17:26:49.864079
+Roadwork,1.3472185166333075,103.87204363331732,(15/4)10:50 Roadworks on Upper Serangoon Road (towards City) after Serangoon Avenue 2.,111000532,2024-04-15 17:26:49.864079
+Roadwork,1.348686113473771,103.87293916371671,(15/4)10:50 Roadworks on Upper Serangoon Road (towards City) after Serangoon Central.,111000632,2024-04-15 17:26:49.864079
+Roadwork,1.326626892583321,103.84171511279087,(15/4)10:46 Roadworks on Thomson Road (towards Newton) after PIE. Avoid left lane.,103079491,2024-04-15 17:26:49.864079
+Roadwork,1.3701042999000916,103.72119296150808,(15/4)10:45 Roadworks on KJE (towards PIE) before PIE(Changi) Exit. Avoid lane 4.,103105786,2024-04-15 17:26:49.864079
+Roadwork,1.307408175594058,103.91792481462781,(15/4)10:44 Roadworks on Marine Parade Road (towards Marine Terrace) after Marine Vista. Avoid right lane.,103090131,2024-04-15 17:26:49.864079
+Roadwork,1.3762908880856237,103.82841389899701,(15/4)10:43 Roadworks on Upper Thomson Road (towards Newton) after Yio Chu Kang Road.,103080406,2024-04-15 17:26:49.864079
+Roadwork,1.3179518863194777,103.74837215755669,(15/4)10:36 Roadworks on West Coast Road (towards Pandan Gardens) after West Coast Highway. Avoid left lane.,103101370,2024-04-15 17:26:49.864079
+Roadwork,1.3030679628632016,103.88455528831473,(15/4)10:36 Roadworks on Mountbatten Road (towards Changi) after Old Airport Road.,103062026,2024-04-15 17:26:49.864079
+Roadwork,1.3630699073038717,103.76743344209972,(15/4)10:24 Roadworks on Upper Bukit Timah Road (towards Woodlands) after Hillview Road. Avoid left lane.,115000912,2024-04-15 17:26:49.864079
+Roadwork,1.3123584859374195,103.77422522761864,(15/4)10:19 Roadworks on Commonwealth Avenue West (towards Tuas) after Dover Avenue. Avoid left lane.,103074587,2024-04-15 17:26:49.864079
+Roadwork,1.2829600231617793,103.83625895844077,(15/4)10:17 Roadworks on Outram Road towards Chin Swee Road. Avoid left lane.,103071322,2024-04-15 17:26:49.864079
+Roadwork,1.2695897270423333,103.81362054949611,(15/4)10:16 Roadworks on Telok Blangah Road (towards City) after Henderson Road.,106002692,2024-04-15 17:26:49.864079
+Roadwork,1.330631900941309,103.8153543788256,(15/4)10:09 Roadworks on Adam Road (towards Queensway) after PIE. Avoid left lane.,103088223,2024-04-15 17:26:49.864079
+Roadwork,1.2660895028479366,103.81964604937818,(15/4)10:06 Roadworks on Telok Blangah Road (towards City) after Harbourfront Avenue.,109001384,2024-04-15 17:26:49.864079
+Roadwork,1.2986867833948075,103.86046271051026,(15/4)10:06 Roadworks on Nicoll Highway (towards Guillemard) after Middle Road. Avoid left lane.,103072383,2024-04-15 17:26:49.864079
+Roadwork,1.2938862792229913,103.76573855774285,(15/4)10:01 Roadworks on West Coast Highway (towards Tuas) after Clementi Road. Avoid right lane.,103090842,2024-04-15 17:26:49.864079
+Roadwork,1.3037537228520495,103.90676008516434,(15/4)9:54 Roadworks on Marine Parade Road near Joo Chiat Road/Marine Parade Central Junction.,103076562,2024-04-15 17:26:49.864079
+Roadwork,1.3044377665920643,103.83116782707845,(15/4)9:51 Roadworks on Paterson Road (towards Orchard Boulevard) after Scotts Road. Avoid right lane.,103076914,2024-04-15 17:26:49.864079
+Roadwork,1.3640902937469492,103.76783129111344,(15/4)9:44 Roadworks on Upper Bukit Timah Road (towards City) after Cashew Road. Avoid right lane.,115000810,2024-04-15 17:26:49.864079
+Roadwork,1.2914892954919417,103.81637432347766,(15/4)9:43 Roadworks on Alexandra Road (towards Alexandra View) after Tanglin Road. Avoid right lane.,103085987,2024-04-15 17:26:49.864079
+Roadwork,1.3043955234305398,103.90765953015631,(15/4)9:39 Roadworks on Marine Parade Road (towards Marine Drive) after Joo Chiat Road. Avoid right lane.,103090138,2024-04-15 17:26:49.864079
+Roadwork,1.3120856733294584,103.77190058942148,(15/4)9:38 Roadworks on Commonwealth Avenue West (towards Tuas) after Clementi Road. Avoid right lane.,103114238,2024-04-15 17:26:49.864079
+Roadwork,1.3683490504340228,103.82837860142962,(15/4)9:36 Roadworks on Upper Thomson Road (towards Newton) after Yio Chu Kang Road. Avoid left lane.,103079455,2024-04-15 17:26:49.864079
+Roadwork,1.3642798285185866,103.95678653848715,(15/4)9:36 Roadworks on TPE (towards PIE) at Loyang Ave Exit.,117000324,2024-04-15 17:26:49.864079

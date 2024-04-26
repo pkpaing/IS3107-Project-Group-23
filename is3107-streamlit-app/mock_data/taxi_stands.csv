@@ -1,0 +1,317 @@
+,TaxiCode,Longitude,Ownership,Name,Bfa,Latitude,Type,LinkID
+0,A01,103.8338467,LTA,Orchard Rd along driveway of Lucky Plaza,Yes,1.304294727,Stand,103054672
+1,A05,103.835547,Private,Mt Elizabeth Rd at Mt Elizabeth Hospital,Yes,1.304571786,Stand,103008130
+2,A06,103.8376729,LTA,Cairnhill Rd at Cairnhill Nine,Yes,1.303519805,Stop,103060824
+3,A08,103.8327402,Private,Orchard Turn at Wisma Atria Shopping Centre,Yes,1.303709915,Stand,103093602
+4,A12,103.8405818,Private,Cuppage Rd at Starhub Centre,Yes,1.302879021,Stop,103000988
+5,A13,103.8422631,LTA,Kramat Lane outside Concorde Hotel & Shopping Mall,No,1.300918488,Stand,116001168
+6,A14,103.8409503,Private,Cavenagh Rd at Holiday Inn Singapore Orchard City Centre,Yes,1.302600342,Stop,103000988
+7,A16,103.8452133,Private,Handy Rd at Plaza Singapura,Yes,1.300514561,Stand,108000987
+8,A17,103.8473265,CCS,Handy Rd near Cathay Building,Yes,1.299321982,Stand,103003582
+9,A18,103.8448645,Private,Penang Rd at driveway of 9 Penang Rd,Yes,1.298096109,Stand,108000620
+10,A19,103.8439415,CCS,Clemenceau Ave in front of Haw Par Glass Centre,Yes,1.296991268,Stand,103068259
+11,A22,103.8395453,Private,Somerset Rd at Orchardgateway,Yes,1.300360761,Stand,103062368
+12,A23,103.8371289,Private,Devonshire Rd outside TripleOne Somerset,Yes,1.299953217,Stand,103000432
+13,B02,103.8496715,CCS,Selegie Rd in front of Parklane Shopping Mall,Yes,1.300574856,Stand,103077672
+14,B03,103.85095,LTA,Short St near La Salle Arts College,Yes,1.302957817,Stand,108001736
+15,B04,103.8523716,LTA,Bencoolen St outside Summerview Hotel,Yes,1.30152,Stop,103086164
+16,B06,103.8490929,Private,Bencoolen St at SMU School of Econ & Social Sciences,Yes,1.297702738,Stop,103088368
+17,B07,103.8493444,Private,Bencoolen St at SMU School of Information Systems,Yes,1.297537879,Stop,103088368
+18,B08,103.8504108,Private,Queen St at SMU Li Ka Shing Library,Yes,1.296189886,Stand,103050408
+19,B09,103.8521884,LTA,Queen St at China Cultural Centre,Yes,1.298087188,Stand,103092194
+20,B10,103.8526465,CCS,Waterloo St at Stamford Arts Centre,Yes,1.299986059,Stand,103010779
+21,B11,103.8554588,Private,North Bridge Rd along driveway of Bugis Junction Tower,Yes,1.298453493,Stand,103072752
+22,B12,103.8563957,LTA,Tan Quee Lan St outside Bugis DTL Station,Yes,1.29894,Stand,103003156
+23,B14,103.8554079,LTA,Purvis St outside Shop House No. 24,No,1.2962475,Stand,103004432
+24,B17,103.850739,LTA,Bencoolen St at Masjid Bencoolen opp Bencoolen DTL Station (Ent A),Yes,1.299549334,Stand,103087412
+25,B18,103.8555097,Private,Victoria St along driveway of Bugis Junction,Yes,1.299986346,Stand,103116902
+26,C01,103.8459884,Private,River Valley Rd at Clarke Quay,Yes,1.291210939,Stand,103076230
+27,C02,103.84526,CCS,River Valley Rd at Liang Court,Yes,1.291754372,Stand,103075526
+28,C04,103.844965,LTA,Tan Tye Place at Clarke Quay,Yes,1.29075,Stand,103012710
+29,C08,103.85036,Private,Coleman St along driveway outside Peninsula Excelsior Hotel,Yes,1.291985691,Stand,103086744
+30,C12,103.8514997,Private,Coleman St at The Adelphi,Yes,1.291346056,Stop,103086580
+31,C13,103.8514184,Private,North Bridge Rd outside Capitol Piazza,Yes,1.292852981,Stand,103054608
+32,C14,103.8526911,Private,Stamford Rd along driveway of Raffles City,Yes,1.293521677,Stand,103083716
+33,C15,103.8527548,Private,North Bridge Rd along driveway of Raffles City,Yes,1.294264086,Stand,103090284
+34,C18,103.858684,Private,Temasek Blvd at Suntec Tower 1 & 2,Yes,1.295428554,Stand,103025456
+35,C19,103.8595444,Private,Temasek Blvd at Suntec Tower 3 & 4,Yes,1.29494786,Stand,103008304
+36,C20,103.859883,Private,Raffles Blvd at Millenia Walk,Yes,1.29157,Stand,103047036
+37,C21,103.8605789,Private,Temasek Ave at Millenia Tower,Yes,1.292638277,Stand,103093303
+38,C22,103.8583529,Private,Raffles Blvd along driveway of Marina Square,Yes,1.291408737,Stand,103048096
+39,C24,103.8565807,Private,Raffles Ave at The Esplanade,Yes,1.289841322,Stand,103047028
+40,C25,103.8567298,Private,Raffles Blvd at Suntec City Mall,Yes,1.292799093,Stand,103110092
+41,C26,103.8460788,LTA,Percival Rd at round-about of Fort Canning Park,Yes,1.296323466,Stop,103011188
+42,C27,103.8579088,Private,Temasek Blvd at Suntec Tower 5,Yes,1.293912465,Stand,103012095
+43,C28,103.8442659,LTA,Clarke Quay outside Fort Canning DTL Station (towards River Valley) (Ent A),Yes,1.29242,Stand,103091763
+44,C29,103.8447777,LTA,River Valley Rd outside Fort Canning DTL Station (towards Downtown) (Ent B),Yes,1.292509725,Stand,103091766
+45,D01,103.840696,Private,Teo Hong Rd beside Dorsett Residences,Yes,1.280230061,Stand,103110192
+46,D02,103.8418178,LTA,Neil Rd in front of Chinatown Plaza,Yes,1.27887,Stand,103070364
+47,D04,103.8416742,LTA,Kreta Ayer Rd opposite Oriental Plaza,Yes,1.281778766,Stand,103006248
+48,D05,103.8423153,Private,Park Cres outside People's Park Complex,Yes,1.283656238,Stand,103092135
+49,D06,103.8431889,LTA,Upp Cross St outside OG Building,Yes,1.285392643,Stand,103066060
+50,D07,103.8443717,LTA,Havelock Sq beside People's Park Centre,No,1.28617,Stop,103003660
+51,D08,103.8447352,Private,New Bridge Rd along driveway of Chinatown Point,Yes,1.285481664,Stand,103055576
+52,D09,103.8447597,Private,New Market Rd outside Ministry of Manpower,Yes,1.287418156,Stop,103111284
+53,D10,103.84261,Private,Magazine Rd at Central Mall,Yes,1.289193914,Stand,109002037
+54,D11,103.8441026,Private,Merchant Rd at Riverside Point,Yes,1.289224474,Stand,103076292
+55,D13,103.8481398,Private,Upp Circular Rd at The Riverwalk,Yes,1.288958327,Stop,103110331
+56,D14,103.8474801,LTA,Carpenter St Opposite Safra Town Club,No,1.288425892,Stand,103000859
+57,D15,103.847022,LTA,North Canal Rd opposite Hong Lim Park,Yes,1.286978749,Stand,103079094
+58,D16,103.8453397,LTA,South Bridge Rd outside Sri Mariamman Temple,Yes,1.282546178,Stand,103072680
+59,D18,103.8439659,LTA,Temple St in front of Grand Court Restaurant,No,1.28291657,Stand,103008611
+60,D19,103.8440421,LTA,Mosque St in front of Dragon Brand Bird's Nest Building,No,1.28429035,Stand,103093980
+61,D20,103.8461855,LTA,Club St at City State Apartments,Yes,1.282438481,Stand,103011534
+62,D21,103.8432689,LTA,Temple St beside Lucky Chinatown,No,1.28348,Stop,103067672
+63,E03,103.8465539,Private,Cross St at Cross St Exchange,Yes,1.284,Stop,103074168
+64,E04,103.84858,CCS,South Canal Rd near OCBC Centre,Yes,1.28594,Stop,104002080
+65,E05,103.849999999919,LTA,Market St at CapitaSpring,No,1.28416666427936,Stand,104005976
+66,E06,103.8474429,LTA,Amoy St behind Thian Hock Keng Temple,No,1.281424263,Stand,103013128
+67,E07,103.8487873,LTA,Telok Ayer St outside PWC Building,Yes,1.282566584,Stand,103070708
+68,E08,103.8479948,CCS,Cecil St outside GB Building (before McCallum St),Yes,1.278955786,Stop,103010692
+69,E09,103.8486742,CCS,Cecil St outside Keck Seng Tower,Yes,1.280094551,Stop,103054712
+70,E10,103.8498846,Private,Cecil St outside CapitaGreen,Yes,1.282069751,Stop,104006552
+71,E11,103.8512297,CCS,D'almeida St outside Bharat Building,Yes,1.283473113,Stop,103111108
+72,E13,103.8521762,Private,Battery Rd at Straits Trading Building,Yes,1.285219403,Stop,103012636
+73,E14,103.8484951,LTA,Robinson Rd before McCallum Street outside Singapore Post,Yes,1.278151896,Stop,103079200
+74,E15,103.849295,LTA,Robinson Rd outside Robinson Centre,No,1.279458605,Stop,103074240
+75,E16,103.85145,CCS,Raffles Quay at 6 Raffles Quay (near Telegraph Street),Yes,1.28163,Stop,103072648
+76,E18,103.8498471,LTA,Shenton Way outside SGX Centre,Yes,1.279050272,Stop,103107224
+77,E19,103.848892,LTA,Shenton Way outside OUE Downtown,Yes,1.277450623,Stop,103105328
+78,E20,103.8470063,LTA,Shenton Way outside MAS Building,Yes,1.27466,Stop,103057064
+79,E21,103.8441858,LTA,Cook St behind Murray Terrace Food Alley,No,1.278768825,Stand,103010975
+80,E22,103.8431344,LTA,Duxton Rd at Shophouse No 61,No,1.277848957,Stand,103110164
+81,E23,103.84201,Private,Hoe Chiang Rd at Keppel Tower,No,1.274215422,Stop,103020792
+82,E25,103.843246,CCS,Tanjong Pagar Rd at Tanjong Pagar Plaza,Yes,1.275819548,Stand,103072362
+83,E26,103.8450738,LTA,Peck Seah St opposite Nehsons Building,Yes,1.27836043,Stand,108001598
+84,E27,103.8437939,CCS,Bernam St outside Fuji Xerox Towers,Yes,1.273441105,Stand,103010920
+85,E32,103.8527361,CCS,Collyer Quay at Income@Raffles,Yes,1.284198427,Stop,103086494
+86,E33,103.8488857,LTA,Circular Rd at Shophouse No. 5,No,1.287969175,Stand,103008392
+87,E34,103.8437301,LTA,Tanjong Pagar Rd opposite Mac-Nels Building,No,1.277880862,Stand,103078758
+88,E35,103.8488084,LTA,Lor Telok at Archipelago Brewery Building,No,1.286873972,Stand,104000792
+89,E36,103.8507074,LTA,Raffles Quay at Lau Pa Sat,No,1.280434689,Stop,103078676
+90,E37,103.8528276,Private,Collyer Quay at OUE Bayfront,Yes,1.283432665,Stop,103086494
+91,E38,103.8438314,LTA,Tanjong Pagar Rd at Shophouse No. 68,No,1.278781731,Stand,103010975
+92,E39,103.8488787,LTA,Cross St outside Telok Ayer DTL Station,Yes,1.281883092,Stand,103082352
+93,E40,103.8553065,LTA,Bayfront Ave outside Marina Bay MRT Station,Yes,1.27613445,Stand,114000644
+94,F01,103.8445289,LTA,Ang Mo Kio Ave 6 outside Yio Chu Kang MRT Station,Yes,1.382026421,Stand,103115718
+95,F02,103.84924,LTA,Ang Mo Kio Ave 8 outside Ang Mo Kio MRT Station,Yes,1.370108751,Stand,103000339
+96,F03,103.8491326,Private,Bishan Place at Bishan Junction 8 shopping Centre,Yes,1.350671693,Stand,103009367
+97,F04,103.8477482,LTA,Bishan Rd opposite Bishan MRT Station (towards Ang Mo Kio),Yes,1.35142,Stand,103001134
+98,F05,103.8481049,LTA,Bishan Rd outside Bishan MRT Station (towards Toa Payoh),Yes,1.35155724,Stand,103001134
+99,F06,103.85037,CCS,Toa Payoh Ctrl in front of Toa Payoh Community Library,Yes,1.334208117,Stand,103109498
+100,F07,103.8460525,CCS,Lor 1 Toa Payoh in front of Blk 109 (near Braddell MRT Station),Yes,1.341053657,Stand,103060362
+101,F08,103.8470449,LTA,Lor 2 Toa Payoh in front of Blk 175,Yes,1.333769871,Stand,104000098
+102,F09,103.8497216,Private,Lor 6 Toa Payoh along driveway of OrangeTee Building,Yes,1.331199896,Stand,104007822
+103,F10,103.8313135,Private,Upp Thomson Rd along driveway of Thomson Plaza,Yes,1.354926873,Stand,103074399
+104,F11,103.855,CCS,Whampoa Dr outside Blk 90 Market & Hawker Centre,Yes,1.322791357,Stand,103063771
+105,F12,103.8507971,CCS,Balestier Rd outside Orange Valley Care Centre,Yes,1.324689142,Stand,103078354
+106,F14,103.8633956,Private,Bendemeer Rd outside Blk 25/27 (Bendemeer Shopping Mall),Yes,1.31829,Stand,103086192
+107,F16,103.861914,LTA,Serangoon Rd outside Boon Keng NEL Station (Ent B)(opp Blk 102),Yes,1.319794451,Stand,103078828
+108,F17,103.8550641,Private,Serangoon Rd at driveway of Centrium Square,Yes,1.310999436,Stand,103072104
+109,F19,103.8614,CCS,Jalan Sultan near Sultan Plaza,Yes,1.30325,Stand,103077830
+110,F20,103.8647842,Private,Beach Rd along driveway of Golden Mile Complex,No,1.302933713,Stand,103086691
+111,F21,103.8633075,LTA,Republic Ave outside Nicoll Highway CCL Station (Ent A),Yes,1.299617827,Stand,103093567
+112,F23,103.8515787,Private,Hastings Rd at Tekka Place,Yes,1.305255256,Stand,103110799
+113,F24,103.85305,CCS,Rochor Canal Rd outside Sim Lim Square,Yes,1.303455756,Stop,103072424
+114,F26,103.8494423,LTA,Bukit Timah Rd outside Little India NEL Station (Ent A),Yes,1.305679526,Stand,104006128
+115,F27,103.8499904,LTA,Race Course Rd outside Little India NEL Station (Ent C) (outside Blk 661),Yes,1.306996505,Stand,104007111
+116,F28,103.85341,LTA,Race Course Rd outside Farrer Park NEL Station(Ent C) outside Connexion,Yes,1.312347768,Stand,104002002
+117,F29,103.8532167,LTA,Race Course Rd outside Farrer Park NEL Station (Ent D) (towards Rangoon Rd),Yes,1.312507907,Stand,104002002
+118,F31,103.8184586,CCS,Telok Blangah Cres opposite Blk 11 Market & Food Centre,Yes,1.277896783,Stand,103063864
+119,F32,103.8215015,LTA,Telok Blangah Rd opposite Harbourfront NEL Station (Ent D) (opp Harbourfront Centre),Yes,1.265908733,Stand,106002656
+120,F34,103.8391854,LTA,Outram Rd outside Outram Park MRT Station,Yes,1.281128741,Stand,108001590
+121,F35,103.8347407,Private,Outram Rd along driveway of Holiday Inn Atrium & Shopping Centre,Yes,1.288850483,Stand,103082476
+122,F37,103.8326127,LTA,Seng Poh Rd outside Tiong Bahru Market,Yes,1.284709597,Stand,103012815
+123,F38,103.8168686,CCS,Bukit Merah Ctrl outside Blk 165,Yes,1.282859406,Stand,103063915
+124,F39,103.8248956,CCS,Bukit Purmei Ave outside Blk 109,Yes,1.27412,Stand,103048071
+125,F40,103.8171921,LTA,Tiong Bahru Rd outside Redhill MRT Station,Yes,1.28921385,Stand,104005218
+126,F41,103.7986999,LTA,Commonwealth Ave outside Commonwealth MRT Station (towards Alexandra Rd),Yes,1.302465431,Stand,103116778
+127,F42,103.7979976,LTA,Commonwealth Ave outside Commonwealth MRT Station (towards Clementi),Yes,1.302390488,Stand,103116782
+128,F43,103.8055077,LTA,Commonwealth Ave outside Queenstown MRT Station (towards Clementi),Yes,1.295058976,Stand,103067607
+129,F44,103.8064757,LTA,Commonwealth Ave outside Queenstown MRT Station (towards Alexandra),Yes,1.294263434,Stand,103086755
+130,F45,103.8034558,CCS,Queensway outside Queenstown Neighbourhood Police Centre,Yes,1.28826,Stand,103080390
+131,F46,103.7904927,LTA,North Buona Vista Rd outside Buona Vista CCL Station (towards Holland Road),Yes,1.306664636,Stand,103073422
+132,F47,103.8251269,CCS,Jervois Rd outside Sheares Ville,Yes,1.293347286,Stand,104008442
+133,F48,103.8226493,Private,Chatsworth Rd outside Embassy of Republic of Indonesia,Yes,1.299915572,Stop,103007479
+134,F49,103.8214378,LTA,Angullia Park beside Liat Towers,No,1.305180656,Stand,104003142
+135,F50,103.8291059,CCS,Claymore Rd beside Orchard Towers,Yes,1.307231142,Stop,103008158
+136,F51,103.8200908,Private,Napier Rd along Driveway of Gleneagles Hospital,Yes,1.307345629,Stand,103110987
+137,F53,103.8377197,LTA,Scotts Rd outside Newton MRT Station (towards Orchard),Yes,1.311927082,Stand,103116790
+138,F54,103.8375721,LTA,Scotts Rd outside Newton MRT Station (towards Newton Circus),Yes,1.312200299,Stand,103116790
+139,F55,103.82685,Private,Tanglin Rd along driveway of Tanglin Shopping Centre,Yes,1.306458124,Stand,103002844
+140,F56,103.8240871,Private,Tanglin Rd outside Tanglin Mall,No,1.305188053,Stand,103055524
+141,F57,103.81451,LTA,Cluny Park Rd outside Botanic Gardens CCL Station,Yes,1.321524668,Stand,103036655
+142,F58,103.8394597,LTA,Toa Payoh Link outside Caldecott CCL Station (towards Toa Payoh Rise),Yes,1.337739375,Stand,116000206
+143,F59,103.84,LTA,Toa Payoh Link outside Caldecott TEL Station (towards Toa Payoh West),Yes,1.337742082,Stand,116000206
+144,F60,103.78774,Private,Vista Exchange Green at The Star,Yes,1.306979998,Stand,112000638
+145,F61,103.8621229,LTA,Marina Coastal Dr outside Marina South Pier MRT Station,Yes,1.270634228,Stand,113000791
+146,F63,103.83805,LTA,Bukit Timah Rd outside Newton DTL Station,Yes,1.31379042,Stand,103086888
+147,F64,103.826323,LTA,Robin Walk outside Stevens DTL Station,Yes,1.319934318,Stand,103115680
+148,F65,103.81583,LTA,Bukit Timah Rd outside Botanic Gardens DTL Station,Yes,1.322716694,Stop,103057132
+149,F66,103.8075461,LTA,Bukit Timah Rd outside Tan Kah Kee DTL Station,Yes,1.325717218,Stand,103082908
+150,F67,103.80777,LTA,Dunearn Rd opposite Tan Kah Kee DTL Station,Yes,1.326497665,Stop,103071428
+151,F68,103.7967355,LTA,Bukit Timah Rd outside Sixth Ave DTL Station,Yes,1.331046304,Stop,103105268
+152,F69,103.78318,LTA,Bukit Timah Rd outside King Albert Park  DTL Station,Yes,1.33580755,Stop,103083056
+153,F70,103.86422,Private,Kallang Ave at driveway of Aperia,Yes,1.31078,Stand,103077838
+154,F71,103.85268,Private,Balestier Rd at driveway of BT Centre,Yes,1.32092,Stand,103115759
+155,F72,103.83532,LTA,Lentor Drive outside Lentor TEL Station (Ent 1),Yes,1.3858,Stand,103032431
+156,F73,103.83541,LTA,Lentor Drive outside Lentor TEL Station (Ent 2),Yes,1.38592,Stand,103032431
+157,F74,103.85547,LTA,Jalan Besar outside Jalan Besar DTL Station (Ent B),Yes,1.30598,Stand,103074892
+158,F75,103.86346,LTA,Kallang Bahru outside Bendeemer DTL Station (Ent B),Yes,1.31382645,Stop,103072222
+159,F76,103.87128,LTA,Geylang Bahru outside Geylang Bahru DTL Station (Ent A),Yes,1.321368532,Stand,103077212
+160,F77,103.838,LTA,Yio Chu Kang Rd outside Lentor TEL Station (Ent 3),Yes,1.384737415,Stand,103085938
+161,F78,103.838,LTA,Ang Mo Kio Ave 4 outside Lentor TEL Station (Ent 4),Yes,1.383,Stand,103000214
+162,F79,103.837,LTA,Ang Mo Kio Ave 4 outside Mayflower TEL Station (Ent 4),Yes,1.371413546,Stand,103030731
+163,F80,103.837,LTA,Ang Mo Kio Ave 4 outside Mayflower TEL Station (Ent 1),Yes,1.372892299,Stand,103030727
+164,F81,103.833,LTA,Sin Ming Ave outside Bright Hill TEL Station (Ent 1),Yes,1.363570548,Stand,103096903
+165,F82,103.832,LTA,Sin Ming Ave outside Bright Hill TEL Station (Ent 4),Yes,1.362,Stand,103024306
+166,F83,103.834,SMRT,Driveway off Jalan Keli outside Upper Thomson TEL Station,Yes,1.354215857,Stand,103115020
+167,F84,103.834,SMRT,Upp Thomson Rd outside Upper Thomson TEL Station,Yes,1.354,Stand,103115020
+168,F85,103.84,LTA,Toa Payoh Rise outside Caldecott TEL Station (Ent 2),Yes,1.338,Stand,103046610
+169,F86,103.841,LTA,Toa Payoh Rise outside Caldecott TEL Station (Ent 3),Yes,1.338,Stand,116000210
+170,F87,103.825803102565,LTA,Stevens Rd outside Stevens TEL Station (Ent 1),Yes,1.31849209930496,Stand,103013326
+171,F88,103.825261595858,LTA,Stevens Rd outside Stevens TEL Station (Ent 2),Yes,1.31960219616884,Stand,103009919
+172,F89,103.819422103296,LTA,Napier Rd outside Napier TEL Station (Ent 1),Yes,1.3067690997306,Stand,103057307
+173,F90,103.819362101538,LTA,Napier Rd opposite Napir TEL Station (Ent 2),Yes,1.30618329714223,Stand,103008466
+174,F91,103.832967598267,LTA,Orchard Boulevard outside Orchard TEL Station (Ent 13),Yes,1.30201189941777,Stand,103105984
+175,F92,103.834172895774,LTA,River Valley Green Rd outside Great World TEL Station (Ent 1),Yes,1.29369410336955,Stand,104006042
+176,F93,103.833430600401,LTA,Zion Rd outside Havelock TEL Station (Ent 3),Yes,1.28870380009047,Stop,103076508
+177,F94,103.833883600155,LTA,Havelock Rd outside Havelock TEL Station (Ent 4),Yes,1.29005708259349,Stand,104005374
+178,F95,103.869235400308,LTA,Marina Gardens Dr opposite Gardens by the Bay TEL Station,Yes,1.27965770049746,Stand,110007306
+179,G01,103.86861,LTA,Potong Pasir Ave 1 outside Potong Pasir NEL Station (Ent A) (in front of Blk 101),Yes,1.332610277,Stand,108002567
+180,G02,103.86936,LTA,Upp Serangoon Rd outside Potong Pasir NEL Station (Ent B) (towards City),Yes,1.33162593,Stand,103114647
+181,G03,103.87052,LTA,Upp Serangoon Rd outside Woodleigh NEL Station (Ent B) (towards Serangoon),Yes,1.339038269,Stand,103078723
+182,G04,103.86464,CCS,Serangoon Ave 3 outside Blk 267,Yes,1.351517098,Stand,103092039
+183,G05,103.87298,LTA,Serangoon Ctrl outside Serangoon CCL Station (Ent E) (outside NEX Shopping Mall),Yes,1.35082,Stand,103085934
+184,G06,103.87429,LTA,Upp Serangoon Rd outside Serangoon NEL Station (Ent C) (towards Kovan),Yes,1.35066,Stand,111000500
+185,G07,103.87411,LTA,Serangoon Ctrl outside Serangoon NEL Station (Ent A) (outside Blk 413),Yes,1.349452199,Stand,106004720
+186,G08,103.86091,LTA,Serangoon Ave 3 outside Lorong Chuan CCL Station (Ent A),Yes,1.35152439,Stand,103105378
+187,G09,103.87715,CCS,Yio Chu Kang Rd outside Space@Kovan,Yes,1.354567437,Stand,103017031
+188,G10,103.88465,LTA,Upp Serangoon Rd outside Kovan NEL Station (Ent C) (towards Serangoon),Yes,1.359570573,Stand,103105191
+189,G11,103.88438,LTA,Upp Serangoon Rd opposite Kovan NEL Station(Ent A) (towards Hougang),Yes,1.359799606,Stand,103105191
+190,G12,103.8926,LTA,Hougang Ctrl outside Hougang NEL Station (Ent B) (opp Hougang Central Bus Interchange),Yes,1.371468131,Stand,103070086
+191,G13,103.89318,LTA,Sengkang Ctrl outside Buangkok NEL Station (Ent B) (towards Hougang),Yes,1.38267,Stand,104008718
+192,G14,103.89291,LTA,Sengkang Ctrl outside Buangkok NEL Station (Ent A) (towards Sengkang),Yes,1.382498214,Stand,104008718
+193,G15,103.90126,LTA,Punggol Rd outside Rivervale Plaza,Yes,1.38532,Stand,103089034
+194,G16,103.89557,LTA,Sengkang East Way outside Sengkang NEL Station (Ent D) (outside Compass Point),Yes,1.392498779,Stand,104003862
+195,G17,103.896,LTA,Sengkang East Way outside Sengkang NEL Station (outside Blk 257C),Yes,1.39268,Stand,104001263
+196,G18,103.89519,LTA,Sengkang Sq outside Sengkang NEL Station (Ent C) (near Kopitiam Square),Yes,1.390717032,Stand,104003599
+197,G19,103.90173,Private,Punggol Ctrl at driveway of Waterway Point,Yes,1.40587,Stand,106003647
+198,G20,103.90266,LTA,Punggol Ctrl outside Punggol NEL Station (Ent C) (outside Punggol Bus Interchange),Yes,1.404867351,Stand,106004810
+199,I34,103.88388,LTA,Mattar Rd outside Mattar DTL Station (Ent B),Yes,1.326178661,Stand,103080248
+200,G21,103.87196,Private,Seletar Aerospace Road 1 at Seletar Airport Passenger Terminal,Yes,1.4135,Stop,104005719
+201,G22,103.9487,CCS,Pasir Ris Ctrl outside Pasir Ris MRT Station,Yes,1.372380134,Stand,103004890
+202,G23,103.94973,Private,Pasir Ris Ctrl St 3 at White Sands Shopping Mall,Yes,1.3727,Stand,103027972
+203,G24,103.91308,Private,Punggol Dr at Oasis Terraces,Yes,1.402288981,Stand,103059374
+204,G25,103.902,LTA,Northshore Drive at Northshore Plaza I,Yes,1.417076232,Stand,103094650
+205,G26,103.905272600257,Private,Punggol Dr at One Punggol,No,1.40973340391347,Stand,112000799
+206,H01,103.788,CCS,Ghim Moh Rd outside Blk 19,Yes,1.31177,Stand,103063883
+207,H02,103.793,LTA,Holland Dr opp Blk 18D,Yes,1.310177009,Stand,103099986
+208,H03,103.79544,CCS,Holland Ave outside Holland Road Shopping Centre,Yes,1.310069406,Stand,103084255
+209,H05,103.80722,LTA,Farrer Rd outside Farrer Road CCL Station,Yes,1.308271898,Stand,103063171
+210,H06,103.7789,Private,Upp Bukit Timah Rd along driveway of Bukit Timah Plaza,Yes,1.338581385,Stand,112000364
+211,H07,103.83305,LTA,Yishun Ave 2 outside Khatib MRT Station,Yes,1.417110963,Stand,103107498
+212,H08,103.83513,LTA,Yishun Ave 2 outside Yishun MRT Station,Yes,1.428789044,Stand,103092515
+213,H10,103.83676,Private,Yishun Ctrl 1 at driveway of Northpoint City,Yes,1.429373341,Stand,103040436
+214,H12,103.82439,Private,Sembawang Rd along driveway of Sembawang Shopping Centre,Yes,1.441797408,Stand,103081967
+215,H13,103.82033,LTA,Sembawang Way outside Sembawang MRT Station,Yes,1.44941,Stand,108003510
+216,H14,103.80125,LTA,Woodlands Ave 7 outside Admiralty MRT Station,Yes,1.440960972,Stand,103082742
+217,H15,103.7872,LTA,Woodlands Sq (East End) outside Woodlands MRT Station (Ent C),Yes,1.437227489,Stand,103035736
+218,H17,103.76957,LTA,Woodlands Centre Rd at Woodlands Train Checkpoint Complex,Yes,1.443618301,Stand,107001140
+219,H18,103.77369,LTA,Woodlands Ave 3 outside Marsiling MRT Station,Yes,1.43242395,Stand,103114858
+220,H19,103.76226,LTA,Woodlands Rd outside Kranji MRT Station,Yes,1.425622829,Stand,103109434
+221,H21,103.76771,LTA,Upp Bukit Timah Rd outside Hillview DTL Station,Yes,1.36265,Stand,115000860
+222,H22,103.77604,LTA,Upp Bukit Timah Rd along driveway of Beauty World DTL Station,Yes,1.341852368,Stand,103080759
+223,H23,103.77575,LTA,Upp Bukit Timah Rd along driveway in front of Bukit Timah Shoppng Centre,Yes,1.343237024,Stand,103073835
+224,H24,103.76416,LTA,Upp Bukit Timah Rd outside Cashew DTL Station,Yes,1.370228318,Stand,103080747
+225,H25,103.76158,LTA,Upp Bukit Timah Rd outside Bukit Panjang DTL Station Ent B,Yes,1.378213898,Stand,115000220
+226,H26,103.8368,Private,Northpoint Dr at driveway of Northpoint City,Yes,1.42767,Stand,103116038
+227,H27,103.83008,LTA,Canberra Link outside Canberra MRT Station,Yes,1.44273,Stand,103115510
+228,H28,103.78496,LTA,Woodlands North Coast Rd outside Woodlands North TEL Station,Yes,1.44796,Stand,103055683
+229,H29,103.78892,LTA,Woodlands Ave 2 outside Woodlands TEL Station (Ent 5),Yes,1.43635,Stop,103104794
+230,H30,103.79249,LTA,Woodlands Ave 1 near Woodlands South TEL Station (Ent 1) in front of  Ace The Place CC,Yes,1.42785,Stand,103070838
+231,H31,103.79281,LTA,Woodlands Ave 1 outside Woodlands South TEL Station (Ent 2) in front of Blk 541,Yes,1.42777,Stand,103070838
+232,H32,103.7949,LTA,Woodlands Ave 1 outside Woodlands South TEL Station (Ent 3) in front of Blk 588,Yes,1.42743,Stand,103043002
+233,H33,103.79493,LTA,Woodlands Ave 1 outside Woodlands South TEL Station (Ent 4),Yes,1.42724,Stand,103043002
+234,H34,103.818,LTA,Upp Thomson Rd outside Springleaf TEL Station (Ent 1),Yes,1.398,Stand,103067503
+235,H35,103.818,LTA,Upp Thomson Rd outside Springleaf TEL Station (Ent 3),Yes,1.398,Stand,103067503
+236,I01,103.98674,CCS,Changi Village Rd outside Blk 5,Yes,1.389711441,Stand,103014270
+237,I02,103.96084,Private,Expo Dr along driveway of Singapore EXPO,Yes,1.335829294,Stand,104007842
+238,I03,103.94519,Private,Tampines Ave 4 at driveway of Tampines Mall,Yes,1.352335748,Stand,103016554
+239,I04,103.95282,Private,Simei St 6 at Eastpoint Shopping Mall,Yes,1.34248,Stand,103017666
+240,I05,103.94606,LTA,New Upp Changi Rd outside Tanah Merah MRT station (Ent A) (towards Bedok),Yes,1.326716192,Stand,103073314
+241,I06,103.94578,LTA,New Upp Changi Rd outside Tanah Merah MRT station (Ent B) (towards Tampines),Yes,1.327340922,Stand,103073314
+242,I07,103.93147,Private,New Upp Changi Rd along driveway outside Blk 209,Yes,1.324506389,Stand,103089776
+243,I08,103.92953,LTA,New Upp Changi Rd outside Bedok MRT station (towards City),Yes,1.323646586,Stand,103089832
+244,I09,103.92546,CCS,Bedok North St 3 outside Blk 539,Yes,1.331132333,Stand,103100376
+245,I10,103.92401,LTA,Bedok Reservoir Rd outside Blk 739A,Yes,1.338108416,Stand,103059846
+246,I11,103.93895,CCS,Bayshore Rd outside The Bayshore,Yes,1.312193423,Stand,103091915
+247,I12,103.92259,LTA,Marine Parade Rd outside Mandarin Gardens,Yes,1.308198547,Stand,103067903
+248,I13,103.91491,CCS,Marine Terrace outside Blk 54,Yes,1.305179817,Stand,103001887
+249,I16,103.90131,Private,Mountbatten Rd along driveway of Katong Shopping Centre,Yes,1.303803724,Stand,104007918
+250,I17,103.91243,LTA,Sims Ave East outside Kembangan MRT station,Yes,1.320761251,Stand,103078216
+251,I18,103.89797,CCS,Sims Ave outside Block 2C,Yes,1.317731858,Stand,103081604
+252,I19,103.89459,CCS,Sims Ave near Tanjong Katong Complex,Yes,1.316465598,Stand,103007812
+253,I20,103.89405,CCS,Tanjong Katong Rd outside City Plaza,Yes,1.314680937,Stand,103009638
+254,I21,103.8943,Private,Tanjong Katong Rd at KINEX,Yes,1.314713111,Stand,103009638
+255,I22,103.89179,LTA,Paya Lebar Rd outside Paya Lebar CCL Station (Ent C),Yes,1.318291566,Stand,103082099
+256,I23,103.8931,Private,Eunos Rd 8 outside Paya Lebar Square,Yes,1.3189409,Stand,103096058
+257,I24,103.88729,LTA,Geylang East Ctrl outside Geylang Polyclinic,Yes,1.319169945,Stand,103068838
+258,I25,103.88315,LTA,Geylang Lor 25A outside Aljunied MRT Station,No,1.315995967,Stand,103022339
+259,I26,103.88034,LTA,Bartley Rd outside Bartley CCL Station (Ent A),Yes,1.34241649,Stand,103089735
+260,I27,103.88922,LTA,Old Airport Rd outside Dakota CCL Station (Ent A),Yes,1.308611817,Stand,103088282
+261,I28,103.87539,Private,Stadium Cres outside Singapore Indoor Stadium,Yes,1.300969009,Stand,114000423
+262,I29,103.87702,Private,Stadium Blvd near OCBC Arena,Yes,1.305449464,Stand,112000331
+263,I30,103.87226,Private,Stadium Pl outside Kallang Wave Mall,Yes,1.304187434,Stand,114000330
+264,I31,103.92926,Private,New Upp Changi Rd at Bedok Mall,Yes,1.324236901,Stand,103077616
+265,I32,103.93246,Private,Bedok North St 1 at Heartbeat@Bedok (Bedok Integrated Complex),Yes,1.32746,Stop,103058567
+266,I33,103.88291,LTA,Merpati Rd outside Mattar DTL Station (Ent A),Yes,1.327411052,Stand,103019916
+267,I35,103.88939,LTA,Circuit Rd outside Macpherson DTL Station (Ent A),Yes,1.326299648,Stand,103004198
+268,I36,103.89989,LTA,Ubi Ave 2 outside Ubi DTL Station (towards MacPherson) (Ent A),Yes,1.330088636,Stand,103045891
+269,I37,103.87159,LTA,Ubi Ave 2 outside Ubi DTL Station (towards Kaki Bukit) (Ent B),Yes,1.329802589,Stand,103028407
+270,I38,103.90737,LTA,Kaki Bukit Ave 1 outside Kaki Bukit DTL Station (Ent B),Yes,1.334693728,Stand,103095647
+271,I39,103.90908,LTA,Jalan Damai outside Kaki Bukit DTL Station (Ent B),Yes,1.334708862,Stand,103059778
+272,I40,103.91802,LTA,Bedok North Rd outside Bedok North DTL Station (Ent A),Yes,1.335501676,Stand,103109263
+273,I41,103.91886,LTA,Bedok North Rd outside Bedok North DTL Station (Ent B),Yes,1.33413593,Stand,103107370
+274,I42,103.95719,Private,Upp Changi Rd East at driveway of Max Atria EXPO,Yes,1.333853533,Stand,103083274
+275,I43,103.93305,LTA,Bedok North Ave 3 outside Bedok Reservoir DTL Station (towards Bedok Reservoir) (Ent A),Yes,1.336475101,Stand,103000614
+276,I44,103.93355,LTA,Bedok North Ave 3 outside Bedok Reservoir DTL Station (Ent B),Yes,1.336316569,Stand,109000076
+277,I45,103.93828,LTA,Tampines Ave 4 outside Tampines West DTL Station (Ent A),Yes,1.350789067,Stand,103101875
+278,I46,103.9392,LTA,Tampines Ave 1 outside Tampines West DTL Station (Ent B),Yes,1.344952831,Stand,103058674
+279,I47,103.95468,LTA,Tampines Ave 7 outside Tampines East DTL Station (Ent A),Yes,1.356448608,Stand,103069194
+280,I48,103.96111,LTA,Jln Pergam outside Upper Changi DTL Station (Ent A),Yes,1.342067713,Stop,103095083
+281,I49,103.96163,LTA,Upp Changi Rd East outside Upper Changi DTL Station (Ent B),Yes,1.341393579,Stand,103073559
+282,I51,103.94041,Private,Tampines Walk at Our Tampines Hub,Yes,1.35406,Stand,103012399
+283,I52,103.98987,Private,Taxi Stop 1A at Changi Airport T1 Arrival (T1 North West),Yes,1.361422973,Stop,103080160
+284,I53,103.99032,Private,Taxi Stop 1B at Changi Airport T1 Arrival (T1 North East),Yes,1.36124187,Stop,103014488
+285,I54,103.9898013,Private,Taxi Stop 1C at Changi Airport T1 Arrival (T1 South West),Yes,1.3613,Stop,103014488
+286,I55,103.9902741,Private,Taxi Stop 1D at Changi Airport T1 Arrival (T1 South East),Yes,1.36114237,Stop,103014488
+287,I56,103.9892756,Private,Taxi Stop 2B at Changi Airport T2 Arrival Drive (T2 North),Yes,1.356408947,Stop,103028388
+288,I57,103.9885351,Private,Taxi Stop 2A at Changi Airport T2 Arrival Drive (T2 South),Yes,1.355839598,Stop,103017168
+289,I58,103.9875269,Private,Taxi Stop 3B at Changi Airport T3 Arrival Drive (T3 North),Yes,1.356643761,Stop,109001220
+290,I59,103.98691,Private,Taxi Stop 3A at Changi Airport T3 Arrival Drive (T3 South),Yes,1.355278088,Stop,109001216
+291,I60,103.9831195,Private,Taxi Stop 4B at Changi Airport T4 Link (T4 North),Yes,1.338923313,Stop,103095763
+292,I61,103.9825397,Private,Taxi Stop 4A at Changi Airport T4 Link (T4 South),Yes,1.337565301,Stop,103095763
+293,I62,103.9464283,CCS,Tampines St 11 near Blk 114,Yes,1.34579,Stand,103101894
+294,J01,103.7515,LTA,Bukit Batok West Ave 5 opposite Bukit Gombak MRT Station (outside Blk 372),Yes,1.358821047,Stand,103054054
+295,J03,103.7475142,LTA,Choa Chu Kang Dr outside Yew Tee MRT Station,Yes,1.397176098,Stand,103046758
+296,J04,103.7812063,LTA,Pasir Panjang Rd outside Haw Par Villa,Yes,1.28376027,Stand,103070490
+297,J05,103.7779283,LTA,Commonwealth Ave West outside Dover MRT Station (Ent A),Yes,1.311569631,Stand,103109174
+298,J06,103.779308,LTA,Commonwealth Ave West outside Dover MRT Station (Ent B),Yes,1.311302029,Stand,103078643
+299,J07,103.7656452,LTA,Commonwealth Ave West outside Clementi MRT Station (towards Jurong East),Yes,1.313697769,Stand,103085642
+300,J08,103.74267,LTA,Summit Lane outside Jurong East MRT Station,Yes,1.332333119,Stand,112001502
+301,J10,103.7250506,LTA,Jurong West Ave 1 outside Blk 492,Yes,1.350169801,Stand,103068911
+302,J11,103.732047,LTA,Boon Lay Way outside Chinese Garden MRT Station,Yes,1.342952414,Stand,103077587
+303,J12,103.7207867,LTA,Boon Lay Way outside Lakeside MRT Station,Yes,1.344548958,Stand,103105263
+304,J13,103.706546,LTA,Boon Lay Way outside Boon Lay MRT Station (towards Jurong East),Yes,1.338106832,Stand,104002662
+305,J14,103.7071111,LTA,Boon Lay Way outside Boon Lay MRT Station (towards Tuas),Yes,1.338186768,Stand,104002662
+306,J15,103.7069825,Private,Boon Lay Way outside Jurong Point Shopping Mall,Yes,1.338995805,Stand,104000358
+307,J16,103.69767,LTA,Jurong West St 63 outside Pioneer MRT Station (Ent B),Yes,1.337774924,Stand,103060018
+308,J19,103.78169,LTA,Pasir Panjang Rd outside Haw Par Villa CCL Station,Yes,1.283306206,Stand,103060150
+309,J21,103.6608667,LTA,Tuas Rd outside Gul Circle MRT Station (Ent A),Yes,1.319421548,Stand,103087627
+310,J22,103.649021,LTA,Pioneer Rd outside Tuas Crescent MRT Station (Ent B),Yes,1.32149,Stand,116003252
+311,J23,103.6392144,LTA,Pioneer Rd outside Tuas West Road MRT Station (Ent A),Yes,1.329977199,Stand,108002494
+312,J24,103.6394942,LTA,Pioneer Rd outside Tuas West Road MRT Station (Ent B),Yes,1.33043,Stand,108002494
+313,J25,103.6372527,LTA,Tuas West Dr outside Tuas Link MRT Station (Ent A),Yes,1.340728759,Stand,103092022
+314,J26,103.6368153,LTA,Tuas West Dr outside Tuas Link MRT Station (Ent B),Yes,1.34039,Stand,103092022
+315,J27,103.72000000316,LTA,Boon Lay Way opposite Lakeside MRT Station (Towards Jurong East),Yes,1.34444444676157,Stand,103105263

@@ -1,0 +1,204 @@
+,Name,MRTLine,TrainStationCode
+0,Jurong East,North-South Line ,NS1
+1,Bukit Batok,North-South Line ,NS2
+2,Bukit Gombak,North-South Line ,NS3
+3,Choa Chu Kang,North-South Line ,NS4
+4,Yew Tee,North-South Line ,NS5
+5,Kranji,North-South Line ,NS7
+6,Marsiling,North-South Line ,NS8
+7,Woodlands,North-South Line ,NS9
+8,Admiralty,North-South Line ,NS10
+9,Sembawang,North-South Line ,NS11
+10,Canberra,North-South Line ,NS12
+11,Yishun,North-South Line ,NS13
+12,Khatib,North-South Line ,NS14
+13,Yio Chu Kang,North-South Line ,NS15
+14,Ang Mo Kio,North-South Line ,NS16
+15,Bishan,North-South Line ,NS17
+16,Braddell,North-South Line ,NS18
+17,Toa Payoh,North-South Line ,NS19
+18,Novena,North-South Line ,NS20
+19,Newton,North-South Line ,NS21
+20,Orchard,North-South Line ,NS22
+21,Somerset,North-South Line ,NS23
+22,Dhoby Ghaut,North-South Line ,NS24
+23,City Hall,North-South Line ,NS25
+24,Raffles Place,North-South Line ,NS26
+25,Marina Bay,North-South Line ,NS27
+26,Marina South Pier,North-South Line ,NS28
+27,Pasir Ris,East-West Line,EW1
+28,Tampines,East-West Line,EW2
+29,Simei,East-West Line,EW3
+30,Tanah Merah,East-West Line,EW4
+31,Bedok,East-West Line,EW5
+32,Kembangan,East-West Line,EW6
+33,Eunos,East-West Line,EW7
+34,Paya Lebar,East-West Line,EW8
+35,Aljunied,East-West Line,EW9
+36,Kallang,East-West Line,EW10
+37,Lavender,East-West Line,EW11
+38,Bugis,East-West Line,EW12
+39,City Hall,East-West Line,EW13
+40,Raffles Place,East-West Line,EW14
+41,Tanjong Pagar,East-West Line,EW15
+42,Outram Park,East-West Line,EW16
+43,Tiong Bahru,East-West Line,EW17
+44,Redhill,East-West Line,EW18
+45,Queenstown,East-West Line,EW19
+46,Commonwealth,East-West Line,EW20
+47,Buona Vista,East-West Line,EW21
+48,Dover,East-West Line,EW22
+49,Clementi,East-West Line,EW23
+50,Jurong East,East-West Line,EW24
+51,Chinese Garden,East-West Line,EW25
+52,Lakeside,East-West Line,EW26
+53,Boon Lay,East-West Line,EW27
+54,Pioneer,East-West Line,EW28
+55,Joo Koon,East-West Line,EW29
+56,Gul Circle,East-West Line,EW30
+57,Tuas Crescent,East-West Line,EW31
+58,Tuas West Road,East-West Line,EW32
+59,Tuas Link,East-West Line,EW33
+60,Expo,Changi Airport Branch Line,CG1
+61,Changi Airport,Changi Airport Branch Line,CG2
+62,HarbourFront,North East Line,NE1
+63,Outram Park,North East Line,NE3
+64,Chinatown,North East Line,NE4
+65,Clarke Quay,North East Line,NE5
+66,Dhoby Ghaut,North East Line,NE6
+67,Little India,North East Line,NE7
+68,Farrer Park,North East Line,NE8
+69,Boon Keng,North East Line,NE9
+70,Potong Pasir,North East Line,NE10
+71,Woodleigh,North East Line,NE11
+72,Serangoon,North East Line,NE12
+73,Kovan,North East Line,NE13
+74,Hougang,North East Line,NE14
+75,Buangkok,North East Line,NE15
+76,Sengkang,North East Line,NE16
+77,Punggol,North East Line,NE17
+78,Dhoby Ghaut,Circle Line,CC1
+79,Bras Basah,Circle Line,CC2
+80,Esplanade,Circle Line,CC3
+81,Promenade,Circle Line,CC4
+82,Nicoll Highway,Circle Line,CC5
+83,Stadium,Circle Line,CC6
+84,Mountbatten,Circle Line,CC7
+85,Dakota,Circle Line,CC8
+86,Paya Lebar,Circle Line,CC9
+87,MacPherson,Circle Line,CC10
+88,Tai Seng,Circle Line,CC11
+89,Bartley,Circle Line,CC12
+90,Serangoon,Circle Line,CC13
+91,Lorong Chuan,Circle Line,CC14
+92,Bishan,Circle Line,CC15
+93,Marymount,Circle Line,CC16
+94,Caldecott,Circle Line,CC17
+95,Botanic Gardens,Circle Line,CC19
+96,Farrer Road,Circle Line,CC20
+97,Holland Village,Circle Line,CC21
+98,Buona Vista,Circle Line,CC22
+99,one-north,Circle Line,CC23
+100,Kent Ridge,Circle Line,CC24
+101,Haw Par Villa,Circle Line,CC25
+102,Pasir Panjang,Circle Line,CC26
+103,Labrador Park,Circle Line,CC27
+104,Telok Blangah,Circle Line,CC28
+105,HarbourFront,Circle Line,CC29
+106,Bayfront,Circle Line Extension,CE1
+107,Marina Bay,Circle Line Extension,CE2
+108,Bukit Panjang,Downtown Line,DT1
+109,Cashew,Downtown Line,DT2
+110,Hillview,Downtown Line,DT3
+111,Beauty World,Downtown Line,DT5
+112,King Albert Park,Downtown Line,DT6
+113,Sixth Avenue,Downtown Line,DT7
+114,Tan Kah Kee,Downtown Line,DT8
+115,Botanic Gardens,Downtown Line,DT9
+116,Stevens,Downtown Line,DT10
+117,Newton,Downtown Line,DT11
+118,Little India,Downtown Line,DT12
+119,Rochor,Downtown Line,DT13
+120,Bugis,Downtown Line,DT14
+121,Promenade,Downtown Line,DT15
+122,Bayfront,Downtown Line,DT16
+123,Downtown,Downtown Line,DT17
+124,Telok Ayer,Downtown Line,DT18
+125,Chinatown,Downtown Line,DT19
+126,Fort Canning,Downtown Line,DT20
+127,Bencoolen,Downtown Line,DT21
+128,Jalan Besar,Downtown Line,DT22
+129,Bendemeer,Downtown Line,DT23
+130,Geylang Bahru,Downtown Line,DT24
+131,Mattar,Downtown Line,DT25
+132,MacPherson,Downtown Line,DT26
+133,Ubi,Downtown Line,DT27
+134,Kaki Bukit,Downtown Line,DT28
+135,Bedok North,Downtown Line,DT29
+136,Bedok Reservoir,Downtown Line,DT30
+137,Tampines West,Downtown Line,DT31
+138,Tampines,Downtown Line,DT32
+139,Tampines East,Downtown Line,DT33
+140,Upper Changi,Downtown Line,DT34
+141,Expo,Downtown Line,DT35
+142,Choa Chu Kang,Bukit Panjang LRT,BP1
+143,South View,Bukit Panjang LRT,BP2
+144,Keat Hong,Bukit Panjang LRT,BP3
+145,Teck Whye,Bukit Panjang LRT,BP4
+146,Phoenix,Bukit Panjang LRT,BP5
+147,Bukit Panjang,Bukit Panjang LRT,BP6
+148,Petir,Bukit Panjang LRT,BP7
+149,Pending,Bukit Panjang LRT,BP8
+150,Bangkit,Bukit Panjang LRT,BP9
+151,Fajar,Bukit Panjang LRT,BP10
+152,Segar,Bukit Panjang LRT,BP11
+153,Jelapang,Bukit Panjang LRT,BP12
+154,Senja,Bukit Panjang LRT,BP13
+155,Sengkang,Sengkang LRT,STC
+156,Compassvale,Sengkang LRT,SE1
+157,Rumbia,Sengkang LRT,SE2
+158,Bakau,Sengkang LRT,SE3
+159,Kangkar,Sengkang LRT,SE4
+160,Ranggung,Sengkang LRT,SE5
+161,Cheng Lim,Sengkang LRT,SW1
+162,Farmway,Sengkang LRT,SW2
+163,Kupang,Sengkang LRT,SW3
+164,Thanggam,Sengkang LRT,SW4
+165,Fernvale,Sengkang LRT,SW5
+166,Layar,Sengkang LRT,SW6
+167,Tongkang,Sengkang LRT,SW7
+168,Renjong,Sengkang LRT,SW8
+169,Punggol,Punggol LRT,PTC
+170,Cove,Punggol LRT,PE1
+171,Meridian,Punggol LRT,PE2
+172,Coral Edge,Punggol LRT,PE3
+173,Riviera,Punggol LRT,PE4
+174,Kadaloor,Punggol LRT,PE5
+175,Oasis,Punggol LRT,PE6
+176,Damai,Punggol LRT,PE7
+177,Sam Kee,Punggol LRT,PW1
+178,Punggol Point,Punggol LRT,PW3
+179,Samudera,Punggol LRT,PW4
+180,Nibong,Punggol LRT,PW5
+181,Sumang,Punggol LRT,PW6
+182,Soo Teck,Punggol LRT,PW7
+183,Woodlands North ,Thomson-East Coast Line,TE1
+184,Woodlands ,Thomson-East Coast Line,TE2
+185,Woodlands South ,Thomson-East Coast Line,TE3
+186,Springleaf,Thomson-East Coast Line,TE4
+187,Lentor,Thomson-East Coast Line,TE5
+188,Mayflower,Thomson-East Coast Line,TE6
+189,Bright Hill,Thomson-East Coast Line,TE7
+190,Upper Thomson,Thomson-East Coast Line,TE8
+191,Caldecott,Thomson-East Coast Line,TE9
+192,Stevens,Thomson-East Coast Line,TE11
+193,Napier,Thomson-East Coast Line,TE12
+194,Orchard Boulevard,Thomson-East Coast Line,TE13
+195,Orchard,Thomson-East Coast Line,TE14
+196,Great World,Thomson-East Coast Line,TE15
+197,Havelock,Thomson-East Coast Line,TE16
+198,Outram Park,Thomson-East Coast Line,TE17
+199,Maxwell,Thomson-East Coast Line,TE18
+200,Shenton Way,Thomson-East Coast Line,TE19
+201,Marina Bay,Thomson-East Coast Line,TE20
+202,Gardens by the Bay,Thomson-East Coast Line,TE22
