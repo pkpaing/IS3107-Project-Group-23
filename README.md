@@ -19,7 +19,7 @@ We employ a FastAPI application to handle backend operations, providing a fast, 
 
 - **API Documentation**: [View FastAPI Documentation](http://103.195.4.105:8000/docs)
 
-### Apache Airflow
+### Apache Airflow (not deployed due to insufficient resources on server)
 
 Apache Airflow is used for workflow orchestration within our project, allowing for scheduled and automated data processing tasks.
 
